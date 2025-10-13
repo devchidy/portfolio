@@ -71,7 +71,7 @@ function Navbar() {
                   >
                     <img
                       src={profile}
-                      alt="David Oladele"
+                      alt="Nduka Ofoegbu"
                       className="w-full h-full object-cover"
                     />
                   </div>
