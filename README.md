@@ -1,7 +1,7 @@
 # Portfolio V2 - Personal Developer Portfolio
 
 ## Created and maintained by:
-- **Oladele David Temitope** - Software Engineer & Engineering Lead
+- **Nduka Ofoegbu** - Software Engineer & Engineering Lead
 
 ## 🚀 About This Project
 
@@ -156,11 +156,8 @@ Edit `src/data/tech.js` to update skills and technologies.
 
 ## 📄 License
 
-This project is private and maintained by Oladele David Temitope.
+This project is private and maintained by Nduka Ofoegbu.
 
 ---
 
 **Built with ❤️ using React, TypeScript, and Tailwind CSS**
-
-
-
