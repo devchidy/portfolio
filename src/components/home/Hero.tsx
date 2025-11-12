@@ -148,7 +148,7 @@ function Hero() {
                 </svg>
               </Link>
               <a
-                href="https://docs.google.com/document/d/1XWX47CVGRfzvwBI0PRL5QIVeXgakfwbxg1QhBlCkw98/edit?tab=t.0"
+                href="https://docs.google.com/document/d/1iCeOM19P2QmTJO7e3eaSvnkQyBG6TN4FxIrw3_BYpJA/edit?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`inline-flex items-center justify-center px-6 sm:px-4 py-3 sm:py-4 border-2 font-medium rounded-md transition-all duration-300 ${
