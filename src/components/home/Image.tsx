@@ -12,7 +12,7 @@ function Image() {
         <img src={user} alt="User" className="h-full w-full  bg-contain" />
       </div>
       <div className="h-[15%] w-full py-2">
-					<Link to="https://drive.google.com/file/d/1e5Kwz1LIO0Qr6UFJXkQmKQH2wYqCnVb3/view?usp=sharing" target="_blank" className="w-full flex items-center justify-center bg-[#FF3E26] lg:py-4 py-2 cursor-pointer shadow-md">
+					<Link to="https://docs.google.com/file/d/1iCeOM19P2QmTJO7e3eaSvnkQyBG6TN4FxIrw3_BYpJA/view" target="_blank" className="w-full flex items-center justify-center bg-[#FF3E26] lg:py-4 py-2 cursor-pointer shadow-md">
 						<SiAdobeacrobatreader className="text-white text-lg" />
 						<h3 className="text-white font-anon pl-4 font-extrabold">Download Resume</h3>
 								</Link>
