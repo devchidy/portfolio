@@ -304,7 +304,7 @@ function Experience() {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="mailto:o.davecodes@gmail.com"
+                href="mailto:ndukaofoegbu9@gmail.com"
                 className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-primary-300 border-2 border-black text-slate-900 font-medium rounded-md hover:bg-primary-400 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 dark:border-primary-400"
               >
                 <svg
@@ -313,7 +313,7 @@ function Experience() {
                   stroke="currentColor"
                   viewBox="0 0 24 24"
                 >
-                  <path
+                  <paths
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
