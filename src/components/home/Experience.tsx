@@ -313,7 +313,7 @@ function Experience() {
                   stroke="currentColor"
                   viewBox="0 0 24 24"
                 >
-                  <paths
+                  <path
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
